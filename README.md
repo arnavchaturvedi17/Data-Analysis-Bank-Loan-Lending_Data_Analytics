@@ -3,7 +3,7 @@
 ### Project Role: Data Analyst – Financial Bank.
 
 
-### The Tableau Dashboard. Please visit my Tableau Public account.
+The Tableau Dashboard. Please visit my Tableau Public account.
 Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab.
 •	Dashboard Link:  https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BankLoan-LendingDataAnalytics/OVERVIEW
 
