@@ -4,8 +4,8 @@
 
 
 The Tableau Dashboard. Please visit my Tableau Public account.
-Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab.
-Dashboard Link:  https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BankLoan-LendingDataAnalytics/OVERVIEW
+Use CTRL+click (on Windows and Linux) or CMD+click (on MacOS) on the link to open in a new browser tab. 
+* Dashboard Link:  https://public.tableau.com/app/profile/arnav.chaturvedi/viz/BankLoan-LendingDataAnalytics/OVERVIEW
 
 ## Portfolio Project Overview:
 A financial bank wants to utilize their available loan lending data to analyze and gain insights for financial planning. These insights from loan data provide key information for making decisions for future lending planning, managing risks and improving bank load recovery etc.
